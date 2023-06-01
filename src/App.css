@@ -16,20 +16,10 @@ body  {
   justify-content: center;
   padding-top: 15px;
   font-family: Lato, sans-serif;
+  flex-direction: column;
+  
 }
 
-.freecodecamp-logo-contenedor  {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 20px;
-}
-
-.freecodecamp-logo  {
-  height: 50px;
-
-}
 
 .contenedor-principal {
   height: 550px;
@@ -40,4 +30,22 @@ body  {
   align-items: center;
   justify-content: center;
 
+}
+
+
+/*Firma */
+
+.author {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  font-family: Share Tech Mono,monospace,sans-serif;
+  margin-top: 50px;
+}
+
+.author a {
+  font-size: 25px;
+  text-decoration: none;
+  color: #ffd900;
+  line-height: 26px;
 }

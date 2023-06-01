@@ -18,13 +18,7 @@ function App() {
 
   return (
     <div className='App'>
-      <div className='freecodecamp-logo-contenedor'>
-        <img
-        className='freecodecamp-logo'
-        src={freeCodeCamp}
-        alt='Logo de Freecodecamp'
-        />
-      </div>
+      
       <div className ='contenedor-principal'>
 
         <Contador numClics= {numClics} />
@@ -42,6 +36,13 @@ function App() {
         />
 
       </div>
+      
+      <div className='author'>
+          Designed and Coded by
+          <br/>
+          <a href='https://www.linkedin.com/in/lucianoalessi/' target='_blank'>Luciano A. Alessi</a>
+        </div>
+      
     </div>
   );
 }
