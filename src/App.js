@@ -1,5 +1,4 @@
 import './App.css';
-import freeCodeCamp from './imagenes/freecodecamp-logo.png'
 import Boton from './componentes/Boton'
 import Contador from './componentes/Contador.js';
 import { useState } from 'react';
@@ -42,7 +41,7 @@ function App() {
           <br/>
           <a href='https://www.linkedin.com/in/lucianoalessi/' target='_blank'>Luciano A. Alessi</a>
         </div>
-        
+
     </div>
   );
 }
