@@ -6,7 +6,7 @@
 
 html, 
 body  {
-  background-color: #1b1b32;
+  background-color: #311e4a;
 }
 
 .App  {
@@ -39,5 +39,20 @@ body  {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
 
+/*Firma */
+
+.author {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  font-family: Share Tech Mono,monospace,sans-serif;
+  margin-top: 50px;
+}
+.author a {
+  font-size: 25px;
+  text-decoration: none;
+  color: #ffd900;
+  line-height: 26px;
 }
