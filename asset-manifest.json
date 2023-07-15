@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Contador-de-clics/static/css/main.ed082ea5.css",
-    "main.js": "/Contador-de-clics/static/js/main.916327d3.js",
+    "main.js": "/Contador-de-clics/static/js/main.0404dadf.js",
     "index.html": "/Contador-de-clics/index.html",
     "main.ed082ea5.css.map": "/Contador-de-clics/static/css/main.ed082ea5.css.map",
-    "main.916327d3.js.map": "/Contador-de-clics/static/js/main.916327d3.js.map"
+    "main.0404dadf.js.map": "/Contador-de-clics/static/js/main.0404dadf.js.map"
   },
   "entrypoints": [
     "static/css/main.ed082ea5.css",
-    "static/js/main.916327d3.js"
+    "static/js/main.0404dadf.js"
   ]
 }
