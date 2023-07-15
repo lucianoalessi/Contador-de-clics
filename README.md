@@ -1,6 +1,6 @@
-## Drum Machine
+## Clic Counter
 
-Drum Machine is a personal project that I did to obtain the "Front End Development Libraries" certification from Free Code Camp. It was developed mainly with **React JS**.
+This personal project is a clic counter that I made with **React JS**.
 
 #### Functionalities
 
