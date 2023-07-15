@@ -17,23 +17,18 @@ function App() {
 
   return (
     <div className='App'>
-      
       <div className ='contenedor-principal'>
-
         <Contador numClics= {numClics} />
-
         <Boton 
-        texto= 'Clic'
-        esBotonDeClic={true}
-        manejarClic={manejarClic} 
+          texto= 'Clic'
+          esBotonDeClic={true}
+          manejarClic={manejarClic} 
         />
-
         <Boton
-        texto = 'Reiniciar'
-        esBotonDeClic={false}
-        manejarClic={manejarReiniciar}
+          texto = 'Reiniciar'
+          esBotonDeClic={false}
+          manejarClic={manejarReiniciar}
         />
-
       </div>
 
       <div className='author'>
@@ -41,7 +36,6 @@ function App() {
           <br/>
           <a href='https://www.linkedin.com/in/lucianoalessi/' target='_blank'>Luciano A. Alessi</a>
         </div>
-
     </div>
   );
 }
